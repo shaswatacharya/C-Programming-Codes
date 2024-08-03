@@ -15,7 +15,7 @@ class calc
 			return c3;
 		}
 		void display(){
-			cout<<"Sum = "<<a*b<<endl;
+			cout<<"Multiply = "<<a*b<<endl;
 		}
 };
 int main(){
